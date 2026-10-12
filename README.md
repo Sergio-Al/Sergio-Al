@@ -10,7 +10,7 @@ I've been learning and working with software and web development for 7 years, st
 * 🖥️  See my portfolio at [My Humble Portfolio (I need to update it!)](http://sergio-ml900.herokuapp.com/)
 * ✉️  You can contact me at [sergio.alejandro.ml900@gmail.com](mailto:sergio.alejandro.ml900@gmail.com)
 * 🚀  I'm currently working on [CRM Programmer at Hansa](http://www.hansa.com.bo/)
-* 🧠  I'm learning GraphQL and AI
+* 🧠  I'm learning Deep Learning and AI
 * 🤝  I'm open to collaborating on MEVN Projects, MERN projects and GraphQL Based projects
 * ⚡  I like to travel a lot!
 
